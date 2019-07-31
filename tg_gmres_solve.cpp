@@ -1,5 +1,17 @@
 /* Deflated Two-Grid Solve as a preconditioner for GMRES */
 
+/********************************************************
+
+Author: Siddhant Katyan
+
+Modified: 28 July, 2019
+
+Purpose: Implementation of Multiplicative Two-Grid Preconditioner for GMRES used for
+         solving Bundle Adjustment problems.
+
+*********************************************************/
+
+
 #ifndef V3D_TG_GMRES_SOLVE_H
 #define V3D_TG_GMRES_SOLVE_H
 
